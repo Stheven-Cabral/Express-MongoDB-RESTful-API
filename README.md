@@ -9,4 +9,4 @@
 <h4>2. Create a .env file.</h4>
 
 <h4>3. In the .env file, include:</h4> 
-<p>DB_CONNECTION=<include 'connection string' here to the mongoDB Atlas database></p>
+<p>DB_CONNECTION=<em>include 'connection string' here to the mongoDB Atlas database</em></p>
