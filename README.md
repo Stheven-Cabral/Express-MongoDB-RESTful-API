@@ -1,7 +1,7 @@
 # Express-MongoDB-RESTful-API
 <h3>A simple REST API built with Express and mongoDB</h3>
 
-<p>A REST API I built while learning how to use the ODM mongoose and implement a mongoDB Atlas database.</p>
+<p>A REST API I built while learning how to use the mongoose ODM and implement a mongoDB Atlas database.</p>
 
 <h4>1. After downloading the repository, run the following commands in the terminal:</h4>
 <p>npm install</p>
