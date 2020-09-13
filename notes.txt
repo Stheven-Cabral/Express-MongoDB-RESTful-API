@@ -1,0 +1,8 @@
+dotenv package - dotenv allows you to separate secrets from your source code. This is useful in a collaborative environment (e.g., work, or open source) where you may not want to share your database login credentials with other people. Instead, you can share the source code while allowing other people to create their own . env file.
+
+mongoose package - Mongoose is an object data modeling (ODM) library that provides a rigorous modeling environment for your data, enforcing structure as needed while still maintaining the flexibility that makes MongoDB powerful. 
+
+body-parser package - Node.js body parsing middleware. Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+body parser is built into express now, you just do:
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
